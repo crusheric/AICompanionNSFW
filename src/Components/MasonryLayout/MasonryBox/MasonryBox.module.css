@@ -42,7 +42,7 @@
     text-transform: capitalize;
 }
 .my-masnry-user-prof-desc h1 {
-    color: var(--green-400);
+    color: #FFAA11;
 }
 .my-masnry-user-prof-desc h3 {
     color: var(--dark-600);

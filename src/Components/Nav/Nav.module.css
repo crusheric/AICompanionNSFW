@@ -4,7 +4,7 @@
 }
 .nav-title {
     font-size: 1.8rem;
-    color: var(--green-400);
+    color: #FFAA11;
 }
 .navbar-nav {
     margin-left: 140px;
@@ -14,7 +14,7 @@
     color: var(--dark-600);
 }
 .nav-item.active {
-    color: var(--green-white-100);
+    color: #ffd48e;
     position: relative;
 }
 .nav-item.active::before {
@@ -24,7 +24,7 @@
     height: 14px;
     top: 50%;
     left: -30px;
-    background: var(--green-400);
+    background: #FFAA11;
     border-radius: 5px;
     transform: rotate(45deg) translateY(-70%);
 }

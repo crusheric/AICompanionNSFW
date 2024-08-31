@@ -18,7 +18,7 @@ const App = () => {
   const ddItems = [
     {
       id: 1,
-      title: "All Images",
+      title: "AI Girl Images",
       active: true
     },
     {
