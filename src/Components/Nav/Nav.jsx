@@ -25,7 +25,7 @@ const Nav = () => {
         </ul>
         <div className={`flex ${styles["navbar-buttons"]}`}>
         <a href="https://www.crush.to" target="_blank" rel="AICompanionNSFW">
-            <Button theme="matrix">Sext with AI Companion for FREE NOW</Button>
+            <Button theme="matrix">AI SEX CHAT</Button>
         </a>
         </div>
         <div className={styles["navbar-responsive-menu"]}>
