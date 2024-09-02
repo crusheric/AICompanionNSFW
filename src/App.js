@@ -23,22 +23,22 @@ const App = () => {
     },
     {
       id: 2,
-      title: "Topic Images",
+      title: "AI Blonde Girls",
       active: false
     },
     {
       id: 3,
-      title: "Nature Images",
+      title: "AI Girlfriends",
       active: false
     },
     {
       id: 4,
-      title: "NFT Images",
+      title: "AI Sext Chat",
       active: false
     },
     {
       id: 5,
-      title: "Space Images",
+      title: "AI Nude",
       active: false
     }
   ]

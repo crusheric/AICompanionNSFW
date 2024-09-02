@@ -25,6 +25,7 @@ const MasonryLayout = ({ images }) => {
       {images.map(item => (
         <MasonryBox 
           key={item.id} 
+          chatLink={item.link}
           wallSrc={item.src} 
           userProf={item.user.src} 
           userName={item.user.name} 

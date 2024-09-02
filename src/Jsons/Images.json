@@ -4,7 +4,6 @@
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/1.png",
-                "alt": "AI Companion NSFW on https://www.crush.to",
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/1.png",
@@ -15,18 +14,16 @@
             {
                 "id": "wallpaper 2",
                 "src": "img/wallpapers/2.png",
-                "alt": "AI Companion NSFW on https://www.crush.to",
-                "link": "https://www.crush.to",
+                "link": "https://www.crush.to/chat/23/ashley-zale",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Ashely",
-                    "job": "Scientist"
+                    "name": "Ashely Zale",
+                    "job": "Fashion Model"
                 }
             },
             {
                 "id": "wallpaper 3",
                 "src": "img/wallpapers/3.png",
-                "alt": "AI Companion NSFW on https://www.crush.to",
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/1.png",
@@ -37,12 +34,11 @@
             {
                 "id": "wallpaper 4",
                 "src": "img/wallpapers/4.png",
-                "alt": "AI Companion NSFW on https://www.crush.to",
-                "link": "https://www.crush.to",
+                "link": "https://www.crush.to/chat/101/chiara-vitti",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Jenny",
-                    "job": "editor"
+                    "name": "Chiara Vitti",
+                    "job": "Psychologist"
                 }
             },
             {
@@ -70,8 +66,7 @@
             {
                 "id": "wallpaper 7",
                 "src": "img/wallpapers/7.png",
-                "alt": "AI Companion NSFW on https://www.crush.to",
-                "link": "https://www.crush.to",
+                "link": "https://www.crush.to/chat/98/elise-grimes",
                 "user": {
                     "src": "img/profile/4.png",
                     "name": "Jennifer",
@@ -93,7 +88,7 @@
                 "id": "wallpaper 9",
                 "src": "img/wallpapers/9.png",
                 "alt": "AI Companion NSFW on https://www.crush.to",
-                "link": "https://www.crush.to",
+                "link": "https://www.crush.to/chat/23/ashley-zale",
                 "user": {
                     "src": "img/profile/2.png",
                     "name": "Jeanie",
@@ -126,11 +121,11 @@
                 "id": "wallpaper 12",
                 "src": "img/wallpapers/12.png",
                 "alt": "AI Companion NSFW on https://www.crush.to",
-                "link": "https://www.crush.to",
+                "link": "https://www.crush.to/chat/179/taylor-lathan",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Jessica",
-                    "job": "Ui/Ux Designer"
+                    "name": "Taylor Lathan",
+                    "job": "Police Officer"
                 }
             },
             {
@@ -158,12 +153,11 @@
             {
                 "id": "wallpaper 15",
                 "src": "img/wallpapers/15.png",
-                "alt": "AI Companion NSFW on https://www.crush.to",
-                "link": "https://www.crush.to",
+                "link": "https://www.crush.to/chat/21/scarlet-hahn",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Justina",
-                    "job": "Designer"
+                    "name": "Scarlet Hahn",
+                    "job": "Paralegal"
                 }
             }
         ],

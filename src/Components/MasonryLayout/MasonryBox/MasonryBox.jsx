@@ -3,10 +3,12 @@ import styles from "./MasonryBox.module.css"
 import { PropTypes } from 'prop-types';
 
 // MasonryBox component
-const MasonryBox = ({ wallSrc, userProf, userName, userJob }) => {
+const MasonryBox = ({ chatLink, wallSrc, userProf, userName, userJob }) => {
   return (
     <div className={styles["my-masonry"]}>
-        <img src={wallSrc} style={{ width: "100%" }} alt="" />
+            <a href={chatLink} target="_blank">
+              <img src={wallSrc} style={{ width: "100%" }} alt="AI Companion NSFW on https://www.crush.to" /> 
+            </a>
         <div className={`${styles["my-masnry-description"]} flex`}>
           <div className={`${styles["my-masnry-user-box"]} flex align-items-center`}>
             <div className={styles["my-masnry-user-prof"]}>
