@@ -158,7 +158,18 @@
                     "name": "Scarlet Hahn",
                     "job": "Paralegal"
                 }
+            },
+            {
+                "id": "wallpaper 16",
+                "src": "img/wallpapers/16.png",
+                "link": "https://www.crush.to/",
+                "user": {
+                    "src": "img/profile/5.png",
+                    "name": "CRUSH",
+                    "job": "AI Companion NSFW"
+                }
             }
+
         ],
         "space": [
             {
