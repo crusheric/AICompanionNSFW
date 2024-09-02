@@ -28,7 +28,7 @@ const Header = () => {
             <h2 className={styles["heading-header-title"]}>AI Sexting and Erotic Role Play with Your AI Companion NSFW 😎🤘</h2>
             <h1 className={styles["heading-header-second-title"]}>
             ❤ AI Sex Chat with <br />
-            <a href="https://www.crush.to" target="_blank"><u>AI Companion NSFW FOR FREE</u></a>
+            <a href="https://www.crush.to?ref=aicomapnionnsfw&utm_source=aicnsfw&utm_medium=referral" target="_blank"><u>AI Companion NSFW FOR FREE</u></a>
             </h1>
           </div>
         </ContainerCard>
