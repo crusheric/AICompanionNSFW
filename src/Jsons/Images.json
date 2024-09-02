@@ -7,7 +7,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Macy",
+                    "name": "Macy Gray",
                     "job": "Designer"
                 }
             },
@@ -59,7 +59,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/3.png",
-                    "name": "Patricia",
+                    "name": "Patricia Rite",
                     "job": "Front-End"
                 }
             },
@@ -80,7 +80,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Ruby",
+                    "name": "Rebel Wilson",
                     "job": "Product Designer"
                 }
             },
@@ -91,7 +91,7 @@
                 "link": "https://www.crush.to/chat/23/ashley-zale",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Jeanie",
+                    "name": "Jeanie Buss",
                     "job": "Designer"
                 }
             },
@@ -102,7 +102,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Cherry",
+                    "name": "Charlize Theron",
                     "job": "Designer"
                 }
             },
@@ -113,7 +113,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Johanna",
+                    "name": "Julie Delpy",
                     "job": "Developer"
                 }
             },
@@ -135,7 +135,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Lucy",
+                    "name": "Emily Blunt",
                     "job": "photographer"
                 }
             },
@@ -168,8 +168,8 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
+                    "name": "Margot Robbie",
+                    "job": "Nurse"
                 }
             },
             {
@@ -179,8 +179,8 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Jennifer",
-                    "job": "Front-End"
+                    "name": "Rachel Weisz",
+                    "job": "Flight Attendant"
                 }
             }
         ],
@@ -192,7 +192,7 @@
                 "link": "https://www.crush.to",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Fanny",
+                    "name": "Saoirse Ronan",
                     "job": "Scientist"
                 }
             },
