@@ -14,7 +14,7 @@ const Nav = () => {
         <h1 className={styles["nav-title"]}>AICompanionNSFW</h1>
         <ul className={`flex align-items-center ${styles["navbar-nav"]}`}>
             <li className={`${styles["nav-item"]} ${styles.active}`}>
-                <a href="" className={styles["nav-link"]}>AICompanionNSFW</a>
+            <a href="https://www.crush.to" target="_blank" className={styles["nav-link"]}>AICompanionNSFW</a>
             </li>
             <li className={styles["nav-item"]}>
                 <a href="https://www.crush.to" target="_blank" className={styles["nav-link"]}>CRUSH</a>

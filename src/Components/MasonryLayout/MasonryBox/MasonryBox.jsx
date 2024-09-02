@@ -10,7 +10,7 @@ const MasonryBox = ({ wallSrc, userProf, userName, userJob }) => {
         <div className={`${styles["my-masnry-description"]} flex`}>
           <div className={`${styles["my-masnry-user-box"]} flex align-items-center`}>
             <div className={styles["my-masnry-user-prof"]}>
-              <img src={userProf} alt="" />
+              <img src={userProf} alt="AI Companion NSFW" />
             </div>
             <div className={`${styles["my-masnry-user-prof-desc"]} flex flex-column`}>
               <h1>{userName}</h1>

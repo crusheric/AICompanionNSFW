@@ -25,12 +25,11 @@ const Header = () => {
           <BrickLayout />
           
           <div className={`${styles["headings-header"]} flex justify-content-center flex-column `}>
-            <h2 className={styles["heading-header-title"]}>Erotic Role Play with Your AI Companion NSFW Now 😎🤘</h2>
+            <h2 className={styles["heading-header-title"]}>AI Sexting and Erotic Role Play with Your AI Companion NSFW 😎🤘</h2>
             <h1 className={styles["heading-header-second-title"]}>
-            ❤ Take your desires <br />
-            to the next level with <span>AI Companion NSFW</span> <br />
+            ❤ AI Sex Chat with <br />
+            <a href="https://www.crush.to" target="_blank"><u>AI Companion NSFW FOR FREE</u></a>
             </h1>
-            
           </div>
         </ContainerCard>
     </header>
